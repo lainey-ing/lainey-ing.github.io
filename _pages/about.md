@@ -3,6 +3,7 @@
 title: "About Elaina Ingelmo"
 
 ---
+2nd Year Vanderbilt Student pursuing mechanical engineering.
 
 ## Education 
 
