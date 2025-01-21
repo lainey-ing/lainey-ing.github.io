@@ -1,19 +1,13 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Syringe Pump"
+excerpt: "This project uses custom 3D printed parts along with different mechanical and electrical components to create a highly accurate automated syringe pump that extrudes fluids at a specified flow rate."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/SyringePump.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+    alt: "running syringe pump"
+
 ---
 
 Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
