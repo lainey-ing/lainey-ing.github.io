@@ -3,7 +3,7 @@ title: "Syringe Pump"
 excerpt: "This project uses custom 3D printed parts along with different mechanical and electrical components to create a highly accurate automated syringe pump that extrudes fluids at a specified flow rate."
 header:
   image: /assets/img/SyringePump.jpg
-  teaser: /assets/img/SyringePump.png
+  teaser: /assets/img/SyringePump.jpg
 gallery:
   - url: /assets/img/RunningSyringePump.jpg
     image_path: assets/img/RunningSyringePump.jpg
