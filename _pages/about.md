@@ -6,7 +6,7 @@ title: "About Elaina Ingelmo"
 
 ## Education 
 
-* Vanderbilt University
+* Vanderbilt University | 2027
   * BE Mechancial Engineering
   * Minor in Digital Fabrication
 
