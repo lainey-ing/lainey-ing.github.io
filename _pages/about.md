@@ -18,7 +18,7 @@ title: "About Elaina Ingelmo"
   * Organize information using various databases.
 
 *  Tennis Coach | Sugar Creek Country Club | May-August 2023
-  * Led small groups of students between ages 4-10 in tennis drills, providing specific instruction for each student
+  * Led small groups of students between ages 4-10 in tennis drills, providing specific instruction for each student   
   * Coordinated with parents to better understand each child’s needs
 
 
