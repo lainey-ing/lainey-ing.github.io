@@ -19,8 +19,31 @@ For a class project we were tasked with creating a DIY syringe pump using only 3
   * In the need to pause the plunger mid-way through the linear range of motion, press the power button to pause indefinitely.
   * The motion will terminate once the limit switch is hit, signaling that the syringe is out of fluid.
 
+# Custom Parts:
+* Motor Mounting Plate
+* Syringe Holder
+* Carriage
+* End Support
+
+# Off-the-Shelf Parts:
+* 250 mm lead screw with 2 mm pitch and 2 mm lead
+* 250 mm lead screw with 2 mm pitch and 8 mm lead
+* 1/4" x 8mm Flexible Coupling
+* 200 mm linear rod with 8 mm diameter
+* LM8UU Linear bearing for 8 mm diameter rod
+* 2040 Aluminum Extrusion 1' Length
+* Nema 17 Stepper Motor
+* MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp
+* Arduino Uno
+* A4988 Stepper Driver
+* Small Breadboard
+* Panel Mount Latching Push Buttons (On/Off)
+* Limit Switch
+* RGB Common Cathode LED
+
 # CAD Model
   image: /assets/img/SyringePumpRender.jpg 
+  I don't have access to the model we made :(
 
 Arduino Code: https://docs.google.com/document/d/10CzmRPEOwFuH_D_E06-ETulo9I3_1qdl7hjgF0dHmrM/edit?tab=t.szlb81wgwdag
 
