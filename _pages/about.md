@@ -1,12 +1,10 @@
 ---
 
-title: "About David Florian"
+title: "About Elaina Ingelmo"
 
 ---
 
-## Education
-
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+## Education 
 
 * Vanderbilt University
   * BE Mechancial Engineering
@@ -15,7 +13,7 @@ David prides himself on his diverse skill set. His most prominent fields of expe
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Elaina has experience with multiple CAD softwares along with other programs.
 
 * SolidWorks | CSWA CAD Certified (December 2024)
 * AutoCAD
@@ -26,4 +24,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/Headshot.jpg" alt="Elaina Ingelmo" style="width:200px;"/>
