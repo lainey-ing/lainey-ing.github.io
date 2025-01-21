@@ -20,7 +20,7 @@ For a class project we were tasked with creating a DIY syringe pump using only 3
   * The motion will terminate once the limit switch is hit, signaling that the syringe is out of fluid.
 
 # CAD Model
-  image: /assets/img/SyringePump.jpg
+  image: /assets/img/SyringePumpRender.jpg 
 
 Arduino Code: https://docs.google.com/document/d/10CzmRPEOwFuH_D_E06-ETulo9I3_1qdl7hjgF0dHmrM/edit?tab=t.szlb81wgwdag
 
