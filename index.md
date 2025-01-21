@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Elaina is a Vanderbilt student set to graduate in Spring of 2027, she is majoring in Mechanical Engineering and minoring in Digital Fabrication."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: assets/img/SyringePump.jpg
     alt: "Automated Syringe Pump"
     title: "Automated Syringe Pump"
     excerpt: "Able to steadily dispense fluids at a set flow rate."
