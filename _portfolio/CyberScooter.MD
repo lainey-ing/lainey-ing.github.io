@@ -4,12 +4,11 @@ excerpt: "This project uses custom 3D printed parts along with different mechani
 header:
   image: /assets/img/SyringePump.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/RunningSyringePump.jpg
+    image_path: assets/img/RunningSyringePump.jpg
     alt: "running syringe pump"
-
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+For a class project we were tasked with creating a DIY syringe pump using only 3D printed components and provided parts. It is compatible with syringes of different diameters (20 mL to 10 mL). The pump is driven by a stepper motor coupled to a lead screw, and the flow rate is easily adjustable using an Arduino program, and can be set in mL/min for two different syringe diameters. It is also designed to have an LED that is green when running, yellow when paused, and red when out of liquid. A switch button was also included to automatically stop the plunger once it has fully dispensed liquid, and a pause button is included to momentarily halt it.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
