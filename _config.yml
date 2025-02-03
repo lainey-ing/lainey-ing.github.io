@@ -13,9 +13,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Elaina Ingelmo"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : "Vanderbilt Engineering"
 name                     : &name "Elaina Ingelmo" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Vanderbilt Engineering "
 url                      : https://lainey-ing.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
