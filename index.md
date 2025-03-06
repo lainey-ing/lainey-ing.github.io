@@ -14,10 +14,11 @@ feature_row:
     alt: "Automated Syringe Pump"
     title: "Automated Syringe Pump"
     excerpt: "Able to steadily dispense fluids at a set flow rate."
+    
  -  image_path: assets/img/fluidicdevicemodel.png
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
-    excetpt: ""
+    excetpt: "A chip designed to sort particles using Pinch Flow Fractionation."
 ---
 
 {% include feature_row %}
