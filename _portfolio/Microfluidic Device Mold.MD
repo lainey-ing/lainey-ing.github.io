@@ -12,7 +12,7 @@ gallery:
 
 This project uses high resolution resin printing and CAD modelling to design and create a mold for a microfluidic device capable of sorting particles within a range of 125-150 µm and 425-500 µm. A mold will be designed in Fusion 360, printed using a Form 4 SLA printer, cast with polydimethylsiloxane (PDMS), and sealed with a substrate.
 
-# CAD Modelling
+# CAD Modeling
 ### Design Specifications:
 * The device, when molded, must be precisely 25 mm wide by 75 mm long
 * The aspect ratio must be less than 4:1, i.e. the height of any feature must be now greater than 4 times its width.
