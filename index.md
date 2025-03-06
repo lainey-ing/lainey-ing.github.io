@@ -14,6 +14,10 @@ feature_row:
     alt: "Automated Syringe Pump"
     title: "Automated Syringe Pump"
     excerpt: "Able to steadily dispense fluids at a set flow rate."
+ -  image_path: assets/img/fluidicdevicemodel.png
+    alt: "Microfluidic Device"
+    title: "Microfluidic Device"
+    excetpt: ""
 ---
 
 {% include feature_row %}
