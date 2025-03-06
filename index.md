@@ -17,7 +17,7 @@ feature_row:
   - image_path: assets/img/fluidicdevicemodel.png
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
-    excetpt: "A chip designed to sort particles using Pinch Flow Fractionation."
+    excerpt: "A chip designed to sort particles using Pinch Flow Fractionation."
 ---
 
 {% include feature_row %}
