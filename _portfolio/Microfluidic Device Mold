@@ -2,11 +2,11 @@
 title: "Microfluidic Device"
 excerpt: "A chip designed to sort particles using Pinch Flow Fractionation (PFF)."
 header:
-  image: /assets/img/fluidicdevicemodel.jpg
-  teaser: /assets/img/fluidicdevicemodel.jpg
+  image: /assets/img/fluidicdevicemodel.png
+  teaser: /assets/img/fluidicdevicemodel.png
 gallery:
-  - url: /assets/img/fluidicdevicemodel.jpg
-    image_path: assets/img/fluidicdevicemodel.jpg
+  - url: /assets/img/fluidicdevicemodel.png
+    image_path: assets/img/fluidicdevicemodel.png
     alt: "model of the microfluidic device"
 ---
 
