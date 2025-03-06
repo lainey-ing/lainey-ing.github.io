@@ -10,18 +10,17 @@ gallery:
     alt: "model of the microfluidic device"
 ---
 
-This project uses high resolution resin printing and CAD modelling to design and create a mold for a microfluidic device capable of sorting particles within a range of 125-150 µm and 425-500 µm. 
-A mold will be designed in Fusion 360, printed using a Form 4 SLA printer, cast with polydimethylsiloxane (PDMS), and sealed with a substrate.
+This project uses high resolution resin printing and CAD modelling to design and create a mold for a microfluidic device capable of sorting particles within a range of 125-150 µm and 425-500 µm. A mold will be designed in Fusion 360, printed using a Form 4 SLA printer, cast with polydimethylsiloxane (PDMS), and sealed with a substrate.
 
 # CAD Modelling
 ### Design Specifications:
-  * The device, when molded, must be precisely 25 mm wide by 75 mm long
-  * The aspect ratio must be less than 4:1, i.e. the height of any feature must be now greater than 4 times its width.
-  * For inlets and outlets a 1.5 mm post should be extruded above the top of the mold, this will create a hole that is compatible with the microfluidic barb
-  * Inlets or outlets must be at least 11 mm away from each other
-  * Channels must be at least 3 mm away from the edge of the device
-  * There should be no features that cannot be demolded (cutbacks or small holes)
-  * Features smaller than 85 µm cannot be printed
+* The device, when molded, must be precisely 25 mm wide by 75 mm long
+* The aspect ratio must be less than 4:1, i.e. the height of any feature must be now greater than 4 times its width.
+* For inlets and outlets a 1.5 mm post should be extruded above the top of the mold, this will create a hole that is compatible with the microfluidic barb
+* Inlets or outlets must be at least 11 mm away from each other
+* Channels must be at least 3 mm away from the edge of the device
+* There should be no features that cannot be demolded (cutbacks or small holes)
+* Features smaller than 85 µm cannot be printed
 
 Pinch Flow Fractionation is a method of sorting small particles into different channels based on their size using laminar flow profiles. This kind of particle sorting is mainly used in biomedical applications, such as for seperating cells or blood components, though it can also be used in environmental monitoring to detect pollution in waterways.
 
