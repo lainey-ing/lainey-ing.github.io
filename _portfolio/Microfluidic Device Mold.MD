@@ -11,7 +11,7 @@ gallery:
 ---
 
 This project uses high resolution resin printing and CAD modelling to design and create a mold for a microfluidic device capable of sorting particles within a range of 125-150 µm and 425-500 µm. A mold will be designed in Fusion 360, printed using a Form 4 SLA printer, cast with polydimethylsiloxane (PDMS), and sealed with a substrate.
-
+A microfluidic device is an instrument that uses small amounts of fluid on a microchip to do tests with. Pinch Flow Fractionation is one method of sorting small particles into different channels based on their size using laminar flow profiles. This kind of particle sorting is mainly used in biomedical applications, such as for seperating cells or blood components, though it can also be used in environmental monitoring to detect pollution in waterways.
 # CAD Modeling
 ### Design Specifications:
 * The device, when molded, must be precisely 25 mm wide by 75 mm long
@@ -22,7 +22,7 @@ This project uses high resolution resin printing and CAD modelling to design and
 * There should be no features that cannot be demolded (cutbacks or small holes)
 * Features smaller than 85 µm cannot be printed
 
-Pinch Flow Fractionation is a method of sorting small particles into different channels based on their size using laminar flow profiles. This kind of particle sorting is mainly used in biomedical applications, such as for seperating cells or blood components, though it can also be used in environmental monitoring to detect pollution in waterways.
+
 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a40233dd030de6042f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
