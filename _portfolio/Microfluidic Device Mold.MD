@@ -26,8 +26,11 @@ A microfluidic device is an instrument that uses small amounts of fluid on a mic
 
 # Printing and Curing
 The mold was printed using a FormLabs Form 3+ resin printer with High Temp V2 resin. After printing, the device was rinsed of uncured resin in isopropyl alcohol (IPA), for 10 minutes, then was dried for 30 minutes. It was then placed in the Form Cure for curing. The Form Cure exposes printed parts to UV light to stabilize them and improve their final mechanical properties. After 60 minutes of curing, the support material was removed and the mold was complete.
-image_path: assets/img/devicemold.jpg
+
+<img src="/assets/img/devicemold.jpg" alt="Finished Microfluidic Device" style="width:200px;"/>
+
 # Final Device
 To go from the mold to the final device, the mold is first coated in parylene to make it biocompatible. The parylene prevents any toxic chemicals from leaching into the final device when it is cast. The device is cast with polydimethylsiloxane (PDMS), specifically SYLGARD 184 Silicone Elastomer.
 
-image_path: assets/img/Finaldevice.jpg
+<img src="/assets/img/Finaldevice.jpg" alt="Finished Microfluidic Device" style="width:200px;"/>
+
