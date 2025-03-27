@@ -19,7 +19,8 @@ This project uses print-in-place parts to create a functional pair of pliers. Th
 The handles are 90 mm long and the jaws are 45 mm. The jaws have a 6 by 14 mm area of surface to grip objects, and can hold objects with a width up to 10mm. The jaws and handles are made of PLA. The center connecting piece was printed out of TPU. In the CAD model the center piece is a solid block, but by altering the print settings a more functional design can be created.
 
 By removing the solid layers from the print a more flexible piece can be printed. The flexibility can be further adjusted by changing the percentage of infill, for my design I used 15% infill. 
-<img src="/assets/img/printsettings.png" alt="Settings for printing flexible center piece." style="width:200px;"/>
+
+<img src="/assets/img/printsettings.png" alt="Settings for printing flexible center piece." style="width:250px;"/>
 
 # Final Product
 <img src="/assets/img/Pliers.jpg" alt="Multimaterial 3D printed Pliers" style="width:200px;"/>
