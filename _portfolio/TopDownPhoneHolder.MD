@@ -2,12 +2,12 @@
 title: "Bike Phone Holder"
 excerpt: "A FFF and pSLS printed device to hold a phone and attach to a bike handle."
 header:
-  image: /assets/img/fluidicdevicemodel.png
-  teaser: /assets/img/fluidicdevicemodel.png
+  image: /assets/img/fullbikephonecase.jpg
+  teaser: /assets/img/fullbikephonecase.jpg
 gallery:
-  - url: /assets/img/fluidicdevicemodel.png
-    image_path: assets/img/fluidicdevicemodel.png
-    alt: "model of the microfluidic device"
+  - url: /assets/img/fullbikephonecase.jpg
+    image_path: assets/img/fullbikephonecase.jpg
+    alt: "Completed bike phone case."
 ---
 
 This project uses a top-down modeling approach to design a phone holder that can attach to a bike or scooter handle. The device also contains a detent mechanism, allowing the phone to be rotated to a landscape or portrait position while remaining attached to the bike.
