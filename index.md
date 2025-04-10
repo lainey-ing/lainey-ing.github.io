@@ -18,7 +18,7 @@ feature_row:
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
     excerpt: "A chip designed to sort particles using Pinch Flow Fractionation."
-  - image_path: assets/img/multimaterialpliers.png
+  - image_path: assets/img/Pliers.jpg
     alt: "Multimaterial Pliers"
     title: "Multimaterial Pliers"
     excerpt: "FFF printed pliers that used multiple materials during printing."
