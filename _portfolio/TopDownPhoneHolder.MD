@@ -39,8 +39,18 @@ To use the device, simply screw the handlebar attachment around the handle bar a
 <img src="/assets/img/IMG-1837.gif" alt="Completed bike phone case moving into the three orientations." style="width:300px;"/>
 
 ## Components
+Top Half of the phone case, printed with TPU:
 
 <img src="/assets/img/topphonecase.jpg" alt="Top half of the phone case." style="width:300px;"/>
+
+Detent mechanism and bottom half of the phone case, powder printed:
+
 <img src="/assets/img/detentrr.png" alt="Detent Mechanism and bottom half of the phone case." style="width:300px;"/>
+
+Housing for the detent mechanism, powder printed:
+
 <img src="/assets/img/housingr.png" alt="Housing for the detent mechanism." style="width:300px;"/>
+
+Handlebar attachment, printed with TPU:
+
 <img src="/assets/img/handleattachment.jpg" alt="Bike handlebars grip." style="width:300px;"/>
