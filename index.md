@@ -18,6 +18,14 @@ feature_row:
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
     excerpt: "A chip designed to sort particles using Pinch Flow Fractionation."
+  - image_path: assets/img/multimaterialpliers.png
+    alt: "Multimaterial Pliers"
+    title: "Multimaterial Pliers"
+    excerpt: "FFF printed pliers that used multiple materials during printing."
+  - image_path: assets/img/fullbikephonecase.png
+    alt: "Bike Phone holder"
+    title: "Bike Phone Holder"
+    excerpt: "A pSLS and FFF printed device that attaches a phone to a bike handle."
 ---
 
 {% include feature_row %}
