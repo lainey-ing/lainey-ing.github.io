@@ -19,9 +19,11 @@ The design process started with a model of the handlebars that remains anchored 
 
 Another useful feature of top-down modeling is the ability to make as-built joints. As stated earlier, each component was built around the handle bars in the position it would be in on the final model. This means the bodies can be jointed together exactly where they need to be, allowing accomodation for clearance or changes to the design.
 
-The detent mechanism utilized a ball and spring to put pressure on the phone case while still allowing it to roll on the ball with less friction. On the phone case, 3 small holes were indented that the ball could fall into. In those 3 locations the phonecase requires more force to be turned out of place, until the ball rolls into another space, putting the phone in a new orientation. 
+The detent mechanism utilized a ball bearing and spring to put pressure on the phone case while still allowing it to roll on the ball with less friction. On the phone case, 3 small holes were indented that the ball could fall into. In those 3 locations the phonecase requires more force to be turned out of place, until the ball rolls into another space, putting the phone in a new orientation. 
 The ball and spring mechanism is enclosed by a larger housing that could be screwed to the attachment to the handlebars. The housing is designed to prevent the phonecase from moving forwards or backwards, only allowing it to rotate in place. This required it to be powder printed. I also chose to powder print the detent mechanism because of the better mechanical properties of the powder when compared to filament printing; pSLS prints are less prone to breaking due to shear forces, making it the ideal choice for the detent mechanism.
 For the phonecase, I combined pSLS and FFF printing. The filament printed aspect of the phonecase was printed out of TPU. The flexible material makes it easy to attach the phone to the holder, while the powder printed aspect keeps it securly in place. I also printed the handle bar attachment out of TPU because I thought it would grip the handlebars better and be less likely to slip.
+
+<img src="/assets/img/detentsectionview.png" alt="Section View of the detent mechanism with ball bearing and spring." style="width:300px;"/>
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d0916f18dfaca541?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
