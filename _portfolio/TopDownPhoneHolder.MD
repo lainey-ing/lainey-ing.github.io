@@ -25,7 +25,13 @@ For the phonecase, I combined pSLS and FFF printing. The filament printed aspect
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d0916f18dfaca541?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<img src="/assets/img/printsettings.png" alt="Settings for printing flexible center piece." style="width:300px;"/>
+<img src="/assets/img/fullbikephonecase.jpg" alt="Completed bike phone case." style="width:300px;"/>
 
 
 To use the device, simply screw the handlebar attachment around the handle bar and put your phone into the phone case. It can remain in the portrait orientation or turned left or right to landscape.
+<img src="/assets/img/IMG-1837.gif" alt="Completed bike phone case moving into the three orientations." style="width:300px;"/>
+
+<img src="/assets/img/topphonecase.jpg" alt="Top half of the phone case." style="width:300px;"/>
+<img src="/assets/img/detentr.jpg" alt="Detent Mechanism and bottom half of the phone case." style="width:300px;"/>
+<img src="/assets/img/housingr.jpg" alt="Housing for the detent mechanism." style="width:300px;"/>
+<img src="/assets/img/handleattachment.jpg" alt="Bike handlebars grip." style="width:300px;"/>
