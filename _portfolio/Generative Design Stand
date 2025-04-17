@@ -1,0 +1,46 @@
+---
+title: "Headphones Stand"
+excerpt: "A pSLS printed headphones stand modelled using Generative Design"
+header:
+  image: /assets/img/fullbikephonecase.jpg
+  teaser: /assets/img/fullbikephonecase.jpg
+gallery:
+  - url: /assets/img/fullbikephonecase.jpg
+    image_path: assets/img/fullbikephonecase.jpg
+    alt: "Completed bike phone case."
+---
+
+This project uses Fusion 360's generative design capabilities to model a lightweight headphones stand. The stand supports the weight of the headphones, and contains a small housing for an airpods case. It also has features to hold cords so the headphones and airpods can charge while they're not being used.
+
+The final model ended up weighing 0.125kg, lighter than most found online, which typically weighed between 0.5-1.5kg. 
+
+## CAD Modeling
+When modeling the stand, I started with the perserve geometries. Since the stand has the rest on a desk or shelf, the first perserved geometry was a round base for the COMPUTER---- to build off of. It had to be wide enough to not fall over when experiencing weights of at least 0.26kg, as this is the weight of the headphones. Next I made the support for the headphones.
+
+The design process started with a model of the handlebars that remains anchored in place. From there, the attachment to the handlebars, the detent mechanism, and the phone case could be built around the bars. This design approach focuses on the relationships between each component rather than the components themselves, this makes it easier to adjust components if something needs to be changed. It can be difficult and time consuming to make the same changes in bottom-up modeling, because each component has to be adjusted individually and reimported into the model. 
+
+Another useful feature of top-down modeling is the ability to make as-built joints. As stated earlier, each component was built around the handle bars in the position it would be in on the final model. This means the bodies can be jointed together exactly where they need to be, allowing accomodation for clearance or changes to the design.
+
+The detent mechanism utilized a ball bearing and spring to put pressure on the phone case while still allowing it to roll on the ball with less friction. On the phone case, 3 small holes were indented that the ball could fall into. In those 3 locations the phonecase requires more force to be turned out of place, until the ball rolls into another space, putting the phone in a new orientation. 
+The ball and spring mechanism is enclosed by a larger housing that could be screwed to the attachment to the handlebars. The housing is designed to prevent the phonecase from moving forwards or backwards, only allowing it to rotate in place. This required it to be powder printed. I also chose to powder print the detent mechanism because of the better mechanical properties of the powder when compared to filament printing; pSLS prints are less prone to breaking due to shear forces, making it the ideal choice for the detent mechanism.
+For the phonecase, I combined pSLS and FFF printing. The filament printed aspect of the phonecase was printed out of TPU. The flexible material makes it easy to attach the phone to the holder, while the powder printed aspect keeps it securly in place. I also printed the handle bar attachment out of TPU because I thought it would grip the handlebars better and be less likely to slip.
+
+<img src="/assets/img/detentsectionview.png" alt="Section View of the detent mechanism with ball bearing and spring." style="width:300px;"/>
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d0916f18dfaca541?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<img src="/assets/img/bikephoneholderr.png" alt="Bike phone holder render." style="width:300px;"/>
+
+# Completed Device:
+
+<img src="/assets/img/fullbikephonecase.jpg" alt="Completed bike phone case." style="width:300px;"/>
+
+
+To use the device, simply screw the handlebar attachment around the handle bar and put your phone into the phone case. It can remain in the portrait orientation or turned left or right to landscape.
+
+<img src="/assets/img/IMG-1837.gif" alt="Completed bike phone case moving into the three orientations." style="width:300px;"/>
+
+## Components
+Top Half of the phone case, printed with TPU:
+
+<img src="/assets/img/topphonecase.jpg" alt="Top half of the phone case." style="width:300px;"/>
