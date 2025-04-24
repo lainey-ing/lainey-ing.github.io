@@ -15,7 +15,7 @@ This project uses Fusion 360's generative design capabilities to model a lightwe
 The final model ended up weighing 0.125kg, lighter than most found online, which typically weighed between 0.5-1.5kg. 
 
 ## CAD Modeling
-When modeling the stand, I started with the perserve geometries. Since the stand has the rest on a desk or shelf, the first perserved geometry was a round base for the COMPUTER---- to build off of. It had to be wide enough to not fall over when experiencing weights of at least 0.26kg, as this is the weight of the headphones. 
+When modeling the stand, I started with the perserve geometries. Since the stand has the rest on a desk or shelf, the first perserved geometry was a round base for the AI to build off of. It had to be wide enough to not fall over when experiencing weights of at least 0.26kg, as this is the weight of the headphones. 
 
 Next I made the support for the headphones. I made a curved space for the headband to sit on, with short barriers on either side to keep it from sliding off. On the support, I added 3 different forces to simulate how the stand would be used. A regular downward force to represent the weight of the headphones, an angled force to represent the headphones being set down, and a moment around the center to simulate the headphones being placed off-center. This combination of forces ensures that Fusion will generate enough support material to keep the stand from collapsing under the weight of the headphones.
 
@@ -34,8 +34,8 @@ Before using the generative design feature, I also had to model the obstacle geo
 
 Fusion generated 2 different models with similar structures, I ended up choosing outcome 1 (left), as it looked more balanced and it weighed less than outcome 2 (right).
 
-<img src="/assets/img/comparisonside.pdf" alt="Comparison of two outputs from Fusion." style="width:300px;"/> 
-<img src="/assets/img/comparisonfront.pdf" alt="Comparison of two outputs from Fusion." style="width:300px;"/>
+<img src="/assets/img/comparisonside.png" alt="Comparison of two outputs from Fusion." style="width:300px;"/> 
+<img src="/assets/img/comparisonfront.png" alt="Comparison of two outputs from Fusion." style="width:300px;"/>
 
 ## Completed Device
 <img src="/assets/img/standempty.jpg" alt="Empty headphones stand." style="width:300px;"/>
