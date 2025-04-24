@@ -34,8 +34,8 @@ Before using the generative design feature, I also had to model the obstacle geo
 
 Fusion generated 2 different models with similar structures, I ended up choosing outcome 1 (left), as it looked more balanced and it weighed less than outcome 2 (right).
 
-<img src="/assets/img/comparisonside.jpg" alt="Comparison of two outputs from Fusion." style="width:300px;"/> 
-<img src="/assets/img/comparisonfront.jpg" alt="Comparison of two outputs from Fusion." style="width:300px;"/>
+<img src="/assets/img/comparisonside.pdf" alt="Comparison of two outputs from Fusion." style="width:300px;"/> 
+<img src="/assets/img/comparisonfront.pdf" alt="Comparison of two outputs from Fusion." style="width:300px;"/>
 
 ## Completed Device
 <img src="/assets/img/standempty.jpg" alt="Empty headphones stand." style="width:300px;"/>
