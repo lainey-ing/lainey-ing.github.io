@@ -1,13 +1,13 @@
 ---
 title: "Headphones Stand"
-excerpt: "A pSLS printed headphones stand modelled using Generative Design"
+excerpt: "A pSLS printed headphones stand modeled using Generative Design"
 header:
-  image: /assets/img/fullbikephonecase.jpg
-  teaser: /assets/img/fullbikephonecase.jpg
+  image: /assets/img/headstand.jpg
+  teaser: /assets/img/headstand.jpg
 gallery:
-  - url: /assets/img/fullbikephonecase.jpg
-    image_path: assets/img/fullbikephonecase.jpg
-    alt: "Completed bike phone case."
+  - url: /assets/img/headstand.jpg
+    image_path: assets/img/headstand.jpg
+    alt: "Headphone stand in use."
 ---
 
 This project uses Fusion 360's generative design capabilities to model a lightweight headphones stand. The stand supports the weight of the headphones, and contains a small housing for an airpods case. It also has features to hold cords so the headphones and airpods can charge while they're not being used.
@@ -28,22 +28,21 @@ I decided to create a headphones stand because right now my headphones sit on my
 
 Before using the generative design feature, I also had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I also included a few spaces where cords could be held, so obstacle geometries were put around those loctions aswell.
 
-<img src="/assets/img/detentsectionview.png" alt="Section View of the detent mechanism with ball bearing and spring." style="width:300px;"/>
+## CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d0916f18dfaca541?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a42ead5485cddb6fec?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<img src="/assets/img/bikephoneholderr.png" alt="Bike phone holder render." style="width:300px;"/>
+Fusion generated 2 different models with similar structures, I ended up choosing outcome 1 (left), as it looked more balanced and it weighed less than outcome 2 (right).
 
-# Completed Device:
+<img src="/assets/img/comparisonside.jpg" alt="Comparison of two outputs from Fusion." style="width:300px;"/> 
+<img src="/assets/img/comparisonfront.jpg" alt="Comparison of two outputs from Fusion." style="width:300px;"/>
 
-<img src="/assets/img/fullbikephonecase.jpg" alt="Completed bike phone case." style="width:300px;"/>
+## Completed Device
+<img src="/assets/img/standempty.jpg" alt="Empty headphones stand." style="width:300px;"/>
 
+<img src="/assets/img/standside.jpg" alt="Headphones stand in use." style="width:300px;"/>
 
-To use the device, simply screw the handlebar attachment around the handle bar and put your phone into the phone case. It can remain in the portrait orientation or turned left or right to landscape.
+Generative design makes prototyping in engineering much more efficient and innovative. AI is a very powerful tool that can explore a wide range of possible prototypes in a short amount of time. While I knew where forces might appear on the stand, it can be difficult to determine the best way to support the forces without any trial and error or in-depth research. I found that using generative design fast-tracked the design process and made it possible to create a functional part using only one print.
 
-<img src="/assets/img/IMG-1837.gif" alt="Completed bike phone case moving into the three orientations." style="width:300px;"/>
+Generative design would be most useful in automotive and aerospace manufacturing. Any industry that makes costly or heavy products would benefit from the efficient lightweighting that generative design can accomplish. It would also only be useful in industries that use SLS printing. Typically the most lightweight or strong solution has complex geometries that can only be manufactured using SLS printing. This limitation means generative design is less useful for low-price products/companies.
 
-## Components
-Top Half of the phone case, printed with TPU:
-
-<img src="/assets/img/topphonecase.jpg" alt="Top half of the phone case." style="width:300px;"/>
