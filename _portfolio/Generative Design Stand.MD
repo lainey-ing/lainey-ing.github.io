@@ -19,14 +19,13 @@ When modeling the stand, I started with the perserve geometries. Since the stand
 
 Next I made the support for the headphones. I made a curved space for the headband to sit on, with short barriers on either side to keep it from sliding off. On the support, I added 3 different forces to simulate how the stand would be used. A regular downward force to represent the weight of the headphones, an angled force to represent the headphones being set down, and a moment around the center to simulate the headphones being placed off-center. This combination of forces ensures that Fusion will generate enough support material to keep the stand from collapsing under the weight of the headphones.
 
-I also added a small compartment in the center to house airpods. The space also includes a space to hold a charging cord, and 3 walls to keep the airpods from falling off. Similarly to the headphones support, I included a force straight down and at an angle to represent the airpods sitting in place and being set down.
+In addition to this I added a small compartment in the center to house airpods. The compartment also includes a space to hold a charging cord, and 3 walls to keep the airpods from falling off. Similarly to the headphones support, I included a force straight down and at an angle to represent the airpods sitting in place and being set down.
 
 The values associated with the applied forces were calculated based on the weight of the headphones. The headphones weigh 260 grams, and the airpods weigh 5.7 grams. These weights equate to 2.55 and 0.56 Newtons respectively.
 
 I decided to create a headphones stand because right now my headphones sit on my desk and take up space when I'm not using them. My design improves on stands that could be bought since its a lighter weight and includes a space to house airpods or another device.
 
-
-Before using the generative design feature, I also had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I also included a few spaces where cords could be held, so obstacle geometries were put around those loctions aswell.
+Before using the generative design feature, I had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I included a few spaces where cords could be held, so obstacle geometries were put around those spots aswell.
 
 ## CAD Model
 
