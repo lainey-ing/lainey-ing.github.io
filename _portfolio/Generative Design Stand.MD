@@ -12,7 +12,9 @@ gallery:
 
 This project uses Fusion 360's generative design capabilities to model a lightweight headphones stand. The stand supports the weight of the headphones, and contains a small housing for an airpods case. It also has features to hold cords so the headphones and airpods can charge while they're not being used.
 
-Generative design AI is very effective at lightweighting or strengthening a mechanical/structural component. For this project, I focused on lightweighting the stand. It was printed using pSLS (selective laser sintering) printing out of PA12 nylon.
+I decided to create a headphones stand because right now my headphones sit on my desk and take up space when I'm not using them. My design improves on stands that could be bought since its a lighter weight and includes a space to house airpods or another device.
+
+Generative design AI is very effective at lightweighting or strengthening a mechanical/structural component. For this project, I focused on lightweighting the stand. It was printed using pSLS (selective laser sintering) technology with PA12 nylon.
 
 The final model ended up weighing 0.125kg, lighter than most found online, which typically weighed between 0.5-1.5kg. 
 
@@ -24,8 +26,6 @@ Next I made the support for the headphones. I made a curved space for the headba
 In addition to this I added a small compartment in the center to house airpods. The compartment also includes a space to hold a charging cord, and 3 walls to keep the airpods from falling off. Similarly to the headphones support, I included a force straight down and at an angle to represent the airpods sitting in place and being set down.
 
 The values associated with the applied forces were calculated based on the weight of the headphones. The headphones weigh 260 grams, and the airpods weigh 5.7 grams. These weights equate to 2.55 and 0.56 Newtons respectively.
-
-I decided to create a headphones stand because right now my headphones sit on my desk and take up space when I'm not using them. My design improves on stands that could be bought since its a lighter weight and includes a space to house airpods or another device.
 
 Before using the generative design feature, I had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I created a few spaces where cords could be held, so obstacle geometries were put around those spots aswell.
 
