@@ -48,7 +48,7 @@ Before using the generative design feature, I had to model the obstacle geometri
 | Shear  | 3.0 N  | Headphones rest  | When the headphones are being set down, a diagonal force is used. The component of this force that is parallel to the base of the stand could cause deformation over time.  |
 | Shear  | 0.40 N  | Airpods rest  | When the airpods are being set down, a diagonal force is used. The component of this force that is parallel to the base of the stand could cause deformation over time.  |
 
-
+### Results
 Fusion generated 2 different models with similar structures, I ended up choosing outcome 1 (left), as it looked more balanced and it weighed less than outcome 2 (right).
 
 <img src="/assets/img/comparisonside.png" alt="Comparison of two outputs from Fusion." style="width:300px;"/> 
@@ -58,6 +58,8 @@ Fusion generated 2 different models with similar structures, I ended up choosing
 <img src="/assets/img/standempty.jpg" alt="Empty headphones stand." style="width:300px;"/>
 
 <img src="/assets/img/standside.jpg" alt="Headphones stand in use." style="width:300px;"/>
+
+### Critique of Generative Design
 
 Generative design makes prototyping in engineering much more efficient and innovative. AI is a very powerful tool that can explore a wide range of possible prototypes in a short amount of time. While I knew where forces might appear on the stand, it can be difficult to determine the best way to support the forces without any trial and error or in-depth research. I found that using generative design fast-tracked the design process and made it possible to create a functional part using only one print.
 
