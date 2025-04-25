@@ -12,6 +12,8 @@ gallery:
 
 This project uses Fusion 360's generative design capabilities to model a lightweight headphones stand. The stand supports the weight of the headphones, and contains a small housing for an airpods case. It also has features to hold cords so the headphones and airpods can charge while they're not being used.
 
+Generative design AI is very effective at lightweighting or strengthening a mechanical/structural component. For this project, I focused on lightweighting the stand. It was printed using pSLS (selective laser sintering) printing out of PA12 nylon.
+
 The final model ended up weighing 0.125kg, lighter than most found online, which typically weighed between 0.5-1.5kg. 
 
 ## CAD Modeling
@@ -27,9 +29,19 @@ I decided to create a headphones stand because right now my headphones sit on my
 
 Before using the generative design feature, I had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I included a few spaces where cords could be held, so obstacle geometries were put around those spots aswell.
 
+
 ## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a42ead5485cddb6fec?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+### Forces:
+
+| Forces  | Magnitude |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+<img src="/assets/img/comparisonside.png" alt="Comparison of two outputs from Fusion." style="width:300px;"/>
 
 Fusion generated 2 different models with similar structures, I ended up choosing outcome 1 (left), as it looked more balanced and it weighed less than outcome 2 (right).
 
@@ -43,5 +55,5 @@ Fusion generated 2 different models with similar structures, I ended up choosing
 
 Generative design makes prototyping in engineering much more efficient and innovative. AI is a very powerful tool that can explore a wide range of possible prototypes in a short amount of time. While I knew where forces might appear on the stand, it can be difficult to determine the best way to support the forces without any trial and error or in-depth research. I found that using generative design fast-tracked the design process and made it possible to create a functional part using only one print.
 
-Generative design would be most useful in automotive and aerospace manufacturing. Any industry that makes costly or heavy products would benefit from the efficient lightweighting that generative design can accomplish. It would also only be useful in industries that use SLS printing. Typically the most lightweight or strong solution has complex geometries that can only be manufactured using SLS printing. This limitation means generative design is less useful for low-price products/companies.
+Generative design would be most useful in automotive and aerospace manufacturing. Any industry that makes costly or heavy products would benefit from the efficient lightweighting that generative design can accomplish. It would also only be useful in industries that use SLS printing. Typically the most lightweight or strong solution has complex geometries that can only be manufactured using SLS printing. This limitation means generative design is less useful for low-price products/companies. 
 
