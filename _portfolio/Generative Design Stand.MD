@@ -31,7 +31,7 @@ For the diagonal forces, the magnitudes were harder to determine. I increased th
 
 The moment force also had a value that could be refined. The value was determined by assuming at most 70% of the headphones weight might be offset from the center. From there, the difference between the two sides was multipled by gravity and the distance from the center of the headband support material.
 
-Before using the generative design feature, I had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I made the entire center shelf an obstacle geometry that protruded out far enough that material would not be there. Since I also added a few spaces where cords could be held, obstacle geometries were put in and around those spots aswell.
+Before using the generative design feature, I had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I made the entire center shelf an obstacle geometry that protruded out far enough that material would not be generated there. Since I also added a few spaces where cords could be held, obstacle geometries were put in and around those spots aswell.
 
 
 ## CAD Model
