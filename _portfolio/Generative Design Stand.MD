@@ -27,7 +27,7 @@ The values associated with the applied forces were calculated based on the weigh
 
 I decided to create a headphones stand because right now my headphones sit on my desk and take up space when I'm not using them. My design improves on stands that could be bought since its a lighter weight and includes a space to house airpods or another device.
 
-Before using the generative design feature, I had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I included a few spaces where cords could be held, so obstacle geometries were put around those spots aswell.
+Before using the generative design feature, I had to model the obstacle geometries. 2 obstacle geometries included the headphones and airpods themselves. I also wanted to avoid the front of the stand having any material, so that they could easily be put down. I created a few spaces where cords could be held, so obstacle geometries were put around those spots aswell.
 
 
 ## CAD Model
@@ -36,10 +36,14 @@ Before using the generative design feature, I had to model the obstacle geometri
 
 ### Forces:
 
-| Forces  | Magnitude |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Forces  | Magnitude | Location  | Rational |
+| ------------- | ------------- | ------------- | ------------- |
+| Pressure  | 2.55 N  | Headphones rest  | When sitting on the stand the headphones apply a 2.55N force straight down, as they weigh 260g.  |
+| Pressure  | 0.272 N  | Airpods rest  | When resting on the stand the airpods apply a 0.272N force straight down, as they weigh 27.7g  |
+| Moment  | 25.0 N.mm  | Headphones rest  | If the headphones are set offcenter, the weight will be distributed unevenly around the stand, creating a moment on the x-y plane.  |
+| Shear  | 3.0 N  | Headphones rest  | When the headphones are being set down, a diagonal force is used. The component of this force that is parallel to the base of the stand could cause deformation over time.  |
+| Shear  | 0.40 N  | Airpods rest  | When the airpods are being set down, a diagonal force is used. The component of this force that is parallel to the base of the stand could cause deformation over time.  |
+
 
 <img src="/assets/img/comparisonside.png" alt="Comparison of two outputs from Fusion." style="width:300px;"/>
 
